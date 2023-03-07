@@ -1,0 +1,15 @@
+CONSULTAS POSTMAN
+
+http://localhost:8080/test/
+
+http://localhost:8080/ventas
+
+http://localhost:8080/auditoria
+
+http://localhost:8080/producto
+
+http://localhost:8080/vendedores
+
+http://localhost:8080/ventas/ventas-por-dia?dia=12&mes=01&anio=2023&nombre=Juan
+
+
